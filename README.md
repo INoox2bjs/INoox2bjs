@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Igor Gonçalves Oliveira]
+# 👋 Olá, eu sou Igor Gonçalves Oliveira
 
 🎓 Estudante de Engenharia de Software  
 💻 Técnico em Informática  
@@ -42,15 +42,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=INoox2bjs&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=INoox2bjs&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/
-- 🐙 GitHub: https://github.com/SEU-USUARIO
+- 💼 LinkedIn: https://www.linkedin.com/in/igor-goncalves-oliveira-8839a8353/  
+- 🐙 GitHub: https://github.com/INoox2bjs  
 
 ---
 
