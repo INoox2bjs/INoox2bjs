@@ -1,8 +1,9 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou [Igor Gonçalves Oliveira]
 
-🎯 Desenvolvedor em formação | Focado em desenvolvimento web e sistemas  
-💻 Buscando evolução constante em programação e boas práticas  
-📚 Atualmente estudando e criando projetos pessoais e acadêmicos
+🎓 Estudante de Engenharia de Software  
+💻 Técnico em Informática  
+🚀 Focado em desenvolvimento web, lógica de programação e construção de sistemas  
+📚 Sempre buscando evolução em tecnologia e boas práticas de programação
 
 ---
 
@@ -22,10 +23,19 @@
 
 ## 📂 Projetos em destaque
 
-- 🔐 Sistema de Login com validação
+- 🔐 Sistema de Login com autenticação
 - 📱 Gerador de QR Code
-- 🎨 Slides e apresentações interativas
-- 🌐 Portfólio pessoal (este perfil)
+- 🌐 Portfólio pessoal
+- 📊 Projetos acadêmicos de Engenharia de Software
+
+---
+
+## 🎯 Objetivos
+
+- Evoluir como desenvolvedor full stack  
+- Aprofundar conhecimentos em backend e bancos de dados  
+- Melhorar arquitetura de software e boas práticas  
+- Participar de projetos reais e colaborativos  
 
 ---
 
