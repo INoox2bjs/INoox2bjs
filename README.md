@@ -41,7 +41,7 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/igor-goncalves-oliveira-8839a8353/  
+- 💼 LinkedIn: https://www.linkedin.com/in/igor-gon%C3%A7alves-oliveira-8839a8353/
 - 🐙 GitHub: https://github.com/INoox2bjs  
 
 ---
